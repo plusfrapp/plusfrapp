@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hello, I'm Felipe Vidal 🧑‍💻
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hello, I'm Rafael José 🧑‍💻
 
 <br>
 
@@ -7,17 +7,11 @@
 
 ---
 
-### 🔭 Focus, Interests & Projects 🚀
-
-- 🤖 **Intelligent Agents & AI:** Focused on autonomous systems and rational decision-making.
-- 💻 **Foundations:** Algorithm development and deeply understanding the machine.
-
----
 
 ### 📫 Contact
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/felipe-gonçalves-vidal-0b84b7280/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-marques-54a8b9351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rafaelfrapp@gmail.com" target="_blank">
